@@ -1,0 +1,4 @@
+.env
+.db-schema.txt
+.env-vars-remote.txt
+node_modules
